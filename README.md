@@ -2,13 +2,15 @@
 # Installation
 git clone https://github.com/SAMIRDON💗HONI/SAMIRDON.git
 
-ls 
 
+ls
 
 cd SAMI💗RDON
 
 
 ls
 
+python PA💗ID.py
+ 
 
-python PAI💗D.py
+REMOVE EMOJI 😄💩👻
